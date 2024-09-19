@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A junior Computer Vision and Machine Learning engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauldess1" alt="pauldess1" /></a> </p>
-
 - 🔭 I’m currently working on **my dev skills**
 
 <h3 align="left">Connect with me:</h3>
