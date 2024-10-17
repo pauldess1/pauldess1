@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my dev skills**
 
-<h3 align="left">🌟 Mes Projets</h3>
+<h3 align="left">🌟 My projects</h3>
 
 <table align="center">
     <tr>
