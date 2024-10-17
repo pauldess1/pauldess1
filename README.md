@@ -11,7 +11,7 @@
         <td><a href="https://github.com/pauldess1/Traffic_Analysis">Traffic Analsis</a> - Vehicle Tracking and Heatmap Visualization</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/pauldess1/Floodseg">Floodseg</a> - Segmentation d'Images avec PSPNet et SLIC </td>
+        <td><a href="https://github.com/pauldess1/Floodseg">Floodseg</a> - Image Segmentation with PSPNet and SLIC </td>
         <td><a href="https://github.com/pauldess1/Amazon-Price-Tracker">Amazon Price Tracker</a> - Allows you to track product prices on Amazon and send email alerts when the price drops below a defined threshold </td>
     </tr>
 </table>
