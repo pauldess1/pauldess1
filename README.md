@@ -8,7 +8,7 @@
 <table align="center">
     <tr>
         <td><a href="https://github.com/pauldess1/SudokuSolver">SudokuSolver</a> - Automatically solves Sudoku grids from images</td>
-        <td><a href="https://github.com/pauldess1/Traffic_Analysis">Traffic Analsis</a> - Vehicle Tracking and Heatmap Visualization</td>
+        <td><a href="https://github.com/pauldess1/Traffic_Analysis">Traffic Analysis</a> - Vehicle Tracking and Heatmap Visualization</td>
     </tr>
     <tr>
         <td><a href="https://github.com/pauldess1/Floodseg">Floodseg</a> - Image Segmentation with PSPNet and SLIC </td>
