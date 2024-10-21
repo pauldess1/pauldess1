@@ -14,6 +14,10 @@
         <td><a href="https://github.com/pauldess1/Floodseg">Floodseg</a> - Image Segmentation with PSPNet and SLIC </td>
         <td><a href="https://github.com/pauldess1/Amazon-Price-Tracker">Amazon Price Tracker</a> - Allows you to track product prices on Amazon and send email alerts when the price drops below a defined threshold </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/pauldess1/Chess">Chess Game</a> - Implementation of a chess game in python using pygame </td>
+        <td><a href="https://github.com/pauldess1/Typing-Blitz">Typing Blitz Game</a> - Implementation of a game that allows you to test and improve your typing speed! This game challenges you to type a random phrase within a time limit and lets you track your performance. </td>
+    </tr>
 </table>
 
 <h3 align="left">Connect with me:</h3>
