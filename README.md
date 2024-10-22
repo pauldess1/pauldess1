@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A junior Computer Vision and Machine Learning engineer.</h3>
 
-- 🔭 I’m currently working on **my dev skills**
+🔭 **Currently working on improving my development skills**, focusing on projects and solving challenges on LeetCode.  
+💡 **Passionate about machine learning** and solving real-world problems through code.  
+📂 Check out my personal projects, ranging from computer vision applications to machine learning models.  
+🌱 **Continuously learning** and experimenting with new technologies.  
+💻 **Languages & Tools**: Python, SQL, Machine Learning, Computer Vision  
+🚀 **Looking for opportunities** to contribute to innovative projects and fast-paced environments.
 
 <h3 align="left">🌟 My projects</h3>
 
