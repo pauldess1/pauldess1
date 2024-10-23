@@ -25,6 +25,12 @@
     </tr>
 </table>
 
+<h3 align="left">🧩 LeetCode Journey</h3>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Paulleremois?theme=wtf&font=Noto%20Music&ext=heatmap" alt="LeetCode Stats">
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/paul-dessain" target="blank">
