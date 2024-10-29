@@ -12,16 +12,20 @@
 
 <table align="center">
     <tr>
-        <td><a href="https://github.com/pauldess1/SudokuSolver">SudokuSolver</a> - Automatically solves Sudoku grids from images</td>
-        <td><a href="https://github.com/pauldess1/Traffic_Analysis">Traffic Analysis</a> - Vehicle Tracking and Heatmap Visualization</td>
+        <td><a href="https://github.com/pauldess1/SudokuSolver">SudokuSolver</a> - Solves Sudoku puzzles automatically from captured images.</td>
+        <td><a href="https://github.com/pauldess1/Traffic_Analysis">Traffic Analysis</a> - Tracks vehicles and visualizes traffic patterns with heatmaps.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/pauldess1/Floodseg">Floodseg</a> - Image Segmentation with PSPNet and SLIC </td>
-        <td><a href="https://github.com/pauldess1/Amazon-Price-Tracker">Amazon Price Tracker</a> - Allows you to track product prices on Amazon and send email alerts when the price drops below a defined threshold </td>
+        <td><a href="https://github.com/pauldess1/100-seat-airplane-problem">100-seat Airplane Problem</a> - Simulation and visualization of a classic probability puzzle.</td>
+        <td><a href="https://github.com/pauldess1/FDM_generator">Match Sheet Generator</a> - Automates match sheet prep for FSGT Sunday league football, saving 20 minutes weekly.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/pauldess1/Chess">Chess Game</a> - Implementation of a chess game in python using pygame </td>
-        <td><a href="https://github.com/pauldess1/Typing-Blitz">Typing Blitz Game</a> - Implementation of a game that allows you to test and improve your typing speed! This game challenges you to type a random phrase within a time limit and lets you track your performance. </td>
+        <td><a href="https://github.com/pauldess1/Floodseg">FloodSeg</a> - Flood area segmentation using PSPNet and SLIC algorithms.</td>
+        <td><a href="https://github.com/pauldess1/Amazon-Price-Tracker">Amazon Price Tracker</a> - Tracks Amazon product prices and sends alerts when prices drop below a set threshold.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/pauldess1/Chess">Chess Game</a> - Classic chess game implemented in Python with Pygame.</td>
+        <td><a href="https://github.com/pauldess1/Typing-Blitz">Typing Blitz Game</a> - A typing speed test game with performance tracking and timed challenges.</td>
     </tr>
 </table>
 
